@@ -1,0 +1,10 @@
+node_modules
+tmp_video
+yarn.lock
+log/**
+
+.idea
+.vscode
+*.env
+
+config/database.json
